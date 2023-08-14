@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Wong Jin Jye"
   avatar           : "profile.png"
-  bio              : "Research Assistant for NUS langcomplab"
+  bio              : "Language Researcher at NUS langcomplab"
   location         : "Singapore"
-  employer         :
+  employer         : "Language and Computation Lab"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
@@ -176,15 +176,18 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: false
+    permalink: /:collection/:path/
+  blog posts:
     output: true
     permalink: /:collection/:path/
 
