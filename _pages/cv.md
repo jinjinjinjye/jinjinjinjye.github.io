@@ -26,7 +26,7 @@ Skills
 * R
 * Python
 
-
+<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -42,6 +42,7 @@ Talks
 Teaching
 ======
   <ul>{% for post in site.teaching %}
+-->
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
