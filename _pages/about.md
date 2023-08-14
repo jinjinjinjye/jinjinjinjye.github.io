@@ -12,4 +12,6 @@ I am a cognitive scientist working at the [NUS Language and Computation Lab](htt
 
 In addition to cognitive science, I am interested in computational linguistics, AI in general, and Large Language Models. I am aiming to brush up on my data science skills.
 
+(This personal site is still under construction! Please email me if you have any queries.)
+
 
