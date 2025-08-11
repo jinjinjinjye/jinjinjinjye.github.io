@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.Soc.Sci. (Hons) in Psychology, National University of Singapore, 2021
+* MSc AI for Science, National University of Singapore (under the Department of Physics), 2025-present
+* B.Soc.Sci. (Hons) in Psychology, National University of Singapore, 2017-2021
 
 Work experience
 ======
-* Dec 2021-Present: Research Assistant
+* Dec 2021-Mar 2025: Research Assistant
   * NUS Language and Computation Lab
-  * Duties included: Project Management (Small World of Singlish Words)
+  * Project In-Charge, Small World of Singlish Words
   * Supervisor: [Dr Cynthia S.Q. Siew](http://hello.csqsiew.xyz/)
 
   
