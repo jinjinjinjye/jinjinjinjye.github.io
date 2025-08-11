@@ -21,6 +21,11 @@ Work experience
   * Project In-Charge, Small World of Singlish Words
   * Supervisor: [Dr Cynthia S.Q. Siew](http://hello.csqsiew.xyz/)
 
+Publications
+======
+* Wong, J. J., Siew, C. S. (2023). Word Association Network of English Words Unique to Singapore English. In COGAI@ IJCLR.
+* Wong, J. J., & Siew, C. S. (2024). Preliminary Data from the Small World of Singlish Words Project: Examining Responses to Common Singlish Words. _Journal of Open Psychology Data, 12_(1).
+* Siew, C. S., Chang, F., & Wong, J. J. (2025). Valence, arousal, concreteness, and humor norms for Singapore English concepts.
   
 Skills
 ======
